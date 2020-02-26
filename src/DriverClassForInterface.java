@@ -15,6 +15,7 @@ public class DriverClassForInterface {
 		ex.drawShape();
 		
 		System.out.println("\nCalling Interface variable: i = "+InterfaceEx.i+" j = "+InterfaceEx.j);
+		System.out.println("Test");
 	}
 
 }
